@@ -12,4 +12,4 @@ GitHub repository:https://github.com/AkhilaSrinagula/Work-Day-Scheduler.git
 
 # Application Screenshot
 
-![View](Assets/Application.png)
+![View](Assets/App.png)
