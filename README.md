@@ -12,4 +12,4 @@ The URL of the GitHub repository:
 
 # Application Screenshot
 
-![first view](assets/Application.png)
+![View](Assets/Application.png)
