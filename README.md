@@ -5,9 +5,9 @@ Work-Day-Scheduler is a simple calendar application that allows a user to save e
 
 This App has been deployed to GitHub pages.
 
-The URL of the deployed application:
+Deployed application:https://akhilasrinagula.github.io/Work-Day-Scheduler/
 
-The URL of the GitHub repository:
+GitHub repository:https://github.com/AkhilaSrinagula/Work-Day-Scheduler.git
 
 
 # Application Screenshot
